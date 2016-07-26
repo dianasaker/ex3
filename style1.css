@@ -1,0 +1,18 @@
+#text{
+	width:auto;
+	height:auto;
+}
+
+#text p{
+	visibility:hidden;
+}
+
+#Image{
+	width:auto;
+	height:auto;
+}
+
+
+#dvd{
+	visibility:hidden;
+}
